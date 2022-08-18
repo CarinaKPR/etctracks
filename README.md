@@ -1,2 +1,2 @@
 # etctracks
-Identify and track extratropical cyclones with relative vorticity data
+The program identify and track extratropical cyclones from 850 hPa relative vorticity data. The limiar of vorticity can be choose. Can delimitada an area of identification and track of events. Result in number of events, with location lat/lon in each time, peak of vorticity and area of atuation. Can include minimum pressure and maximun wind in 10 meters of each time. A paper are been prepared to explain more details of the project.
